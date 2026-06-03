@@ -1,0 +1,4 @@
+aiogram
+python-dotenv
+bcrypt
+psycopg2-binary
