@@ -34,7 +34,7 @@ CHANNEL_USERNAME = "@noryxhack"
 CHANNEL_ID       = -1003928878729
 ADMINS           = ["illusiononce", "ANTIITAPCHIKo", "f_luger"]
 BETA_LINK        = "https://t.me/+ueQeqop01DRiM2Ni"
-DATABASE_URL     = "postgresql://postgres.lriagtyzxhquojilqnsx:[noryxhackbustit67]@aws-1-eu-central-1.pooler.supabase.com:6543/postgres"
+DATABASE_URL     = "postgresql://postgres.lriagtyzxhquojilqnsx:noryxhackbust67@aws-1-eu-central-1.pooler.supabase.com:6543/postgres"
 
 PROMO_DISCOUNT   = 9  # %
 
