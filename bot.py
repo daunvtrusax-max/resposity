@@ -29,7 +29,7 @@ logger = logging.getLogger("NoryxHack")
 #   КОНФИГУРАЦИЯ
 # ══════════════════════════════════════════════════════════════════
 
-BOT_TOKEN        = "8951682715:AAGu2N_L9OhvLXc1wfoupk4oC9mbMsSXHJg"
+BOT_TOKEN        = "8896114708:AAFAZRZcnctOntNGBjVLX-Qfk7GxxpseBkY"
 CHANNEL_USERNAME = "@noryxhack"
 CHANNEL_ID       = -1003928878729
 ADMINS           = ["illusiononce", "ANTIITAPCHIKo", "f_luger"]
